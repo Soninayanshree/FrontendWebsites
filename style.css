@@ -442,6 +442,8 @@ body{
 .footer-mainbox{
     display: flex;
     justify-content: space-between;
+    /* border: 2px solid red; */
+    margin: 0 1vw;
 }
 .footerbox{
     height: 400px;
